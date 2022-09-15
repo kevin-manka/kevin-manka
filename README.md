@@ -1,4 +1,2 @@
-# kevin--manka
-My personal repository
-
+Kevin Manka
 B.E.Sc., Software Engineering Undergraduate Student, UWO
