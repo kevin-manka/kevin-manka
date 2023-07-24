@@ -1,9 +1,9 @@
 # Kevin 🕴️
 
 ## Currently, I'm
-- 🎓 a Third-year Software Engineering student at Western University
+- 🎓 a third-year software engineering student at Western University
 - 🌪️ finishing up working on a VR-enabled web application to better analyze severe storm damage imagery for the Northern Tornadoes Project
-- 💻 a passionate maker of all things software, including design, development, and everything in between
+- 💻 a passionate maker of all things software, including development, design, and everything in between
 
 ## Things I've Made More Things With
 
